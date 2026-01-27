@@ -2,11 +2,11 @@
 <h3 align="center">✨ A Passionate Frontend Developer from Sri Lanka ✨</h3>
 
 <p align="center">
-  <img src="https://github-readme-snake.aryaman.xyz/github-contribution-grid-snake.svg?github_user=hansani2002-ab&dark_mode=true" alt="snake" />
+  <img src="https://raw.githubusercontent.com/hansani2002-ab/hansani2002-ab/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hansani2002-ab&label=Profile%20views&color=0077B5&style=flat-square" alt="hansani2002-ab" />
+  <img src="https://komarev.com/ghpvc/?username=hansani2002-ab&label=Profile%20views&color=0e75b6&style=flat-square" alt="hansani2002-ab" />
 </p>
 
 ---
@@ -34,7 +34,6 @@
 ---
 
 ### 📊 My GitHub Stats
-
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hansani2002-ab&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
