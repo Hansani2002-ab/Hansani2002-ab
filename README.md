@@ -2,10 +2,6 @@
 <h3 align="center">✨ A Passionate Frontend Developer from Sri Lanka ✨</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hansani2002-ab/hansani2002-ab/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=hansani2002-ab&label=Profile%20views&color=0e75b6&style=flat-square" alt="hansani2002-ab" />
 </p>
 
@@ -44,4 +40,10 @@
 </p>
 
 ---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hansani2002-ab/hansani2002-ab/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
 <p align="center">⭐️ From <b>Hansani Madurangi</b></p>
