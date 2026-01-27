@@ -2,7 +2,11 @@
 <h3 align="center">✨ A Passionate Frontend Developer from Sri Lanka ✨</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hansani2002-ab&label=Profile%20views&color=FF5733&style=flat-square" alt="hansani2002-ab" />
+  <img src="https://github-readme-snake.aryaman.xyz/github-contribution-grid-snake.svg?github_user=hansani2002-ab&dark_mode=true" alt="snake" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hansani2002-ab&label=Profile%20views&color=0077B5&style=flat-square" alt="hansani2002-ab" />
 </p>
 
 ---
@@ -23,28 +27,22 @@
 ---
 
 ### 🛠️ My Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nextjs,tailwind,nodejs,mysql,mongodb,aws,flutter,git,vscode&perline=9" />
 </p>
 
 ---
 
-### 📊 My GitHub Contributions Summary
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hansani2002-ab&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hansani2002-ab&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansani2002-ab&layout=compact&theme=tokyonight&border_radius=10" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hansani2002-ab&theme=tokyonight&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansani2002-ab&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hansani2002-ab&theme=tokyonight" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
-</p>
-
 <p align="center">⭐️ From <b>Hansani Madurangi</b></p>
