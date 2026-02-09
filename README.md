@@ -8,10 +8,10 @@
 ---
 
 ### 💫 About Me
-- [cite_start]🔭 I’m currently working on improving my **Frontend Development** skills. 
-- [cite_start]🌱 I’m currently learning **C, C++, Java, and Python**. 
-- [cite_start]💬 Ask me about **Java, C, and Python**. 
-- [cite_start]📫 Reach me at: **hansanimadurangi21@gmail.com** 
+- 🔭 I’m currently working on improving my **Frontend Development** skills.
+- 🌱 I’m currently learning **C, C++, Java, and Python**.
+- 💬 Ask me about **Java, C, and Python**.
+- 📫 Reach me at: **hansanimadurangi21@gmail.com**
 
 ### 🤝 Connect with me:
 <p align="left">
@@ -30,11 +30,11 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Hansani2002-ab&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hansani2002-ab&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansani2002-ab&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hansani2002-ab&layout=compact&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hansani2002-ab&theme=tokyonight" />
 </p>
 
