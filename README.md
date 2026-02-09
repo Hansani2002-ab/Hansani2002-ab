@@ -8,14 +8,14 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on improving my **Frontend Development** skills.
-- 🌱 I’m currently learning **C, C++, Java, and Python**.
-- 💬 Ask me about **Java, C, and Python**.
-- 📫 Reach me at: **hansanimadurangi21@gmail.com**
+- [cite_start]🔭 I’m currently working on improving my **Frontend Development** skills. 
+- [cite_start]🌱 I’m currently learning **C, C++, Java, and Python**. 
+- [cite_start]💬 Ask me about **Java, C, and Python**. 
+- [cite_start]📫 Reach me at: **hansanimadurangi21@gmail.com** 
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/hansani-madurangi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hansani-madurangi-a2a176335/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hansanimadurangi21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -30,12 +30,12 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hansani2002-ab&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Hansani2002-ab&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansani2002-ab&layout=compact&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hansani2002-ab&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansani2002-ab&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hansani2002-ab&theme=tokyonight" />
 </p>
 
 ---
